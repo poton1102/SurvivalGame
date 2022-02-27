@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="gamewave:jar">
+    <output-path>$PROJECT_DIR$/../testgamewave</output-path>
+    <root id="archive" name="gamewave.jar">
+      <element id="module-output" name="gamewave" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/sqljdbc_9.2.1.0_enu/sqljdbc_9.2/enu/mssql-jdbc-9.2.1.jre15.jar" path-in-jar="/" />
+      <element id="library" level="project" name="res" />
+    </root>
+  </artifact>
+</component>
